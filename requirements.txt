@@ -11,4 +11,3 @@ lime
 flask
 gunicorn
 requests
-pickle
