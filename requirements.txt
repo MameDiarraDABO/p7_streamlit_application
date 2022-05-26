@@ -11,6 +11,5 @@ lime
 flask
 gunicorn
 requests
-json
 urllib
 pickle
