@@ -13,4 +13,4 @@ gunicorn
 requests
 json
 urllib
-pip
+
